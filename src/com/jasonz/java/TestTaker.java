@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class TestTaker {
+public class TestTaker {    
     public TestTaker(){
         Scanner sc;
         System.out.println("Type the exact location to the input file (Include the .txt part in the path)");
